@@ -1,0 +1,12 @@
+{"id":"0000001","type":"NAV","time":10000,"planeCode":222,"nav_x":1,"nav_y":1,"nav_z":1,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000002","type":"NAV","time":10002,"planeCode":222,"nav_x":18,"nav_y":2,"nav_z":2,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000003","type":"NAV","time":10001,"planeCode":222,"nav_x":3,"nav_y":3,"nav_z":3,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000004","type":"NAV","time":10005,"planeCode":222,"nav_x":10,"nav_y":4,"nav_z":4,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000005","type":"NAV","time":10003,"planeCode":222,"nav_x":1,"nav_y":4,"nav_z":4,"v_x":1,"v_y":1,"v_z":1}
+{"id":"00000011","type":"NAV","time":10004,"planeCode":222,"nav_x":6,"nav_y":6,"nav_z":6,"v_x":1,"v_y":1,"v_z":1}
+{"id":"00000012","type":"NAV","time":10006,"planeCode":222,"nav_x":7,"nav_y":10,"nav_z":10,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000006","type":"NAV","time":10000,"planeCode":333,"nav_x":1,"nav_y":1,"nav_z":1,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000007","type":"NAV","time":10002,"planeCode":333,"nav_x":2,"nav_y":2,"nav_z":2,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000008","type":"NAV","time":10001,"planeCode":333,"nav_x":3,"nav_y":3,"nav_z":3,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000009","type":"NAV","time":10005,"planeCode":333,"nav_x":4,"nav_y":4,"nav_z":4,"v_x":1,"v_y":1,"v_z":1}
+{"id":"0000010","type":"NAV","time":10003,"planeCode":333,"nav_x":4,"nav_y":4,"nav_z":4,"v_x":1,"v_y":1,"v_z":1}
