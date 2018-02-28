@@ -5,6 +5,8 @@ from pyspark import SparkContext, RDD
 from pyspark.streaming import StreamingContext, DStream
 from pyspark.streaming.kafka import KafkaUtils
 
+
+
 from com.iai.MainHandler import handle
 from com.iai.Configuration import Configuration
 
@@ -19,7 +21,7 @@ sc = SparkContext(conf.getProperty("spark","master"), conf.getProperty("spark","
 ssc = StreamingContext(sc, int(conf.getProperty("streaming.context","duration")))
 kafkaReceiverParams = {
     "metadata.broker.list": conf.getProperty("streaming.context","metadata.broker.list"),
-    "auto.offset.reset": conf.getProperty("streaming.context","auto.offset.reset"),
+    "auto.offset.reset":"largest", #conf.getProperty("streaming.context","auto.offset.reset"),
     "group.id": conf.getProperty("streaming.context","group.id"),
     "client.id": conf.getProperty("streaming.context","client.id")}
 
